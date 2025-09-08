@@ -26,6 +26,10 @@
 ✔️ Price range analysis  
 ✔️ Online order trends  
 
+## 📸 Dashboard Preview  
+
+![Dashboard Screenshot](<img width="1863" height="598" alt="Screenshot 2025-09-08 131558" src="https://github.com/user-attachments/assets/5cc8fbd6-9ebf-49ea-9762-b67abeba38c9" />
+)
 ---
 
 ## 👤 Author  
